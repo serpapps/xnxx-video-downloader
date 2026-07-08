@@ -1,4 +1,4 @@
-# XNXX Downloader (Browser Extension)
+# XNXX Video Downloader (Browser Extension)
 
 > Download supported XNXX videos as MP4 files directly from active video pages.
 
@@ -12,7 +12,7 @@ XNXX Downloader is a browser extension built for users who want a cleaner way to
 
 ## Links
 
-- :rocket: Get it here: [XNXX Downloader](https://serp.ly/xnxx-video-downloader)
+- :rocket: Get it here: [XNXX Downloader](https://serp.ly/xnxx-video-downloader?via=github)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/xnxx-video-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/xnxx-video-downloader/issues)
@@ -126,7 +126,7 @@ The extension only works on media you can already open and play in your active b
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/xnxx-video-downloader](https://serp.ly/xnxx-video-downloader)
+Start here: [https://serp.ly/xnxx-video-downloader?via=github](https://serp.ly/xnxx-video-downloader?via=github)
 
 ## Installation Instructions
 
