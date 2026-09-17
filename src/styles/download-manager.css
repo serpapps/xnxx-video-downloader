@@ -1,0 +1,12 @@
+/* XNXX Download Manager tweaks (most styles are inline; this aligns theme) */
+#xnxx-download-manager {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: var(--text-primary);
+}
+#xnxx-download-manager .cancel-download-btn:hover {
+  background-color: var(--bg-darker);
+  color: var(--text-primary);
+}
+#downloads-container {
+  scrollbar-width: thin;
+}
